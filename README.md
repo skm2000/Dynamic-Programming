@@ -11,7 +11,7 @@ SubProblems :<br>
 3) Count of SubSet Sum.<br>
 4) Minimum SubSet Sum Difference.<br>
 5) Count SubSets of given Sum.<br>
-6)Target Sum <br><br>
+6) Target Sum <br><br>
 
 **Parent Problem** : *Unbounded KnapSack*<br>
 SubProblems :<br>
