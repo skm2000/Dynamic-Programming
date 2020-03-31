@@ -37,7 +37,8 @@ SubProblems :<br>
 2) Maximum Sum Increasing SubSequence.<br>
 3) Maximum Sum Decreasing SubSequence.<br>
 4) Maximum Product Subsequence.<br>
-5) Minimum Jumps to reach end.<br><br>
+5) Minimum Jumps to reach end.<br>
+6) Longest Bitonic Sequence.<br><br>
 
 **Parent Problem** : *Dp on Grids*<br>
 1) Maximum Size Submatrix Square.<br>
