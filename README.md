@@ -22,7 +22,7 @@ SubProblems :<br>
 **Parent Problem** : *Longest Common SubSequence*<br>
 SubProblems :<br>
 1) Longest Common SubString.<br>
-2) Shortest Common SubSequence.<br>
+2) Shortest Common SuperSequence.<br>
 3) Print LCS.<br>
 4) Minimum Insertions to Convert a String.<br>
 5) Longest Repeating SubSequence.<br>
