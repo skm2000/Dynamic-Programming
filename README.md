@@ -3,6 +3,7 @@ A DP a day keeps the bug away.
 
 **Cointains Basic Dp Problems**<br><br>
 
+**Parent Problem** : *Kadane's Algorithm*<br>
 
 **Parent Problem** : *0/1 KnapSack Problem*<br>
 SubProblems :<br>
