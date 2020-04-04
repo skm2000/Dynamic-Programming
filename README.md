@@ -16,6 +16,7 @@ SubProblems :<br>
 **Parent Problem** : *Unbounded KnapSack*<br>
 SubProblems :<br>
 1) Coin Changing Problem 1(No of ways).<br>
+   A)Reach A given Score.<br>
 2) Coin Changing Problem 2(Minimum no of coins).<br>
 3) Rod Cutting Problem.<br><br>
 
