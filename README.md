@@ -42,6 +42,8 @@ SubProblems :<br>
 5) Minimum Jumps to reach end.<br>
 6) Longest Bitonic Sequence.<br><br>
 
+**Parent Problem** : *Count Distinct SubSequences*<br>
+
 **Parent Problem** : *Dp on Grids*<br>
 1) Maximum Size Submatrix Square.<br>
 2) Maximum Path Sum in Triangele.<br><br>
