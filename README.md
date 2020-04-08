@@ -40,18 +40,24 @@ SubProblems :<br>
 3) Maximum Sum Decreasing SubSequence.<br>
 4) Maximum Product Subsequence.<br>
 5) Minimum Jumps to reach end.<br>
-6) Longest Bitonic Sequence.<br><br>
+6) Box Stacking Problem.<br>
+7) Longest Bitonic Sequence.<br><br>
 
 **Parent Problem** : *Count Distinct SubSequences*<br>
 
 **Parent Problem** : *Dp on Grids*<br>
 1) Maximum Size Submatrix Square.<br>
-2) Maximum Path Sum in Triangele.<br><br>
+2) Maximum Path Sum in Triangle.
+3) Minimum Initial Points to Reach Destination.<br><br>
 
 **Parent Problem** : *Matrix Chain Multiplication*<br>
 
 **Parent Problem** : *Dp on Trees*<br>
 
+**Others**
+1) Get Minimum Squares.<br>
+2) Count All Increasing Subsequences.<br>
+3) Longest Consequetive Subsequences.<br><br>
 
 Happy Coding!!
 
