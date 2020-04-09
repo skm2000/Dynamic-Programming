@@ -15,7 +15,7 @@ int CDS(string s,int size){
     return dp[size];
 }
 int main(){
-    string s="fff";
+    string s="gfg";
     int size=s.length();
     cout<<CDS(s,size)<<"\n";
 }
