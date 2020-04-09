@@ -3,7 +3,15 @@ A DP a day keeps the bug away.
 
 **Cointains Basic Dp Problems**<br><br>
 
-**Parent Problem** : *Kadane's Algorithm*<br>
+**Parent Problem** : *Kadane's Algorithm*<br><br>
+
+**Parent Problem** : *Fibonacci*<br>
+SubProblems :<br>
+1) Reach a given Score.<br>
+2) Count number of hops.<br>
+3) Count ways to reach n-th stair.<br>
+4) Count Number of Ways to Tile.<br>
+5) Tiling Problem-General.<br><br>
 
 **Parent Problem** : *0/1 KnapSack Problem*<br>
 SubProblems :<br>
@@ -19,7 +27,8 @@ SubProblems :<br>
 1) Coin Changing Problem 1(No of ways).<br>
    A)Reach A given Score.<br>
 2) Coin Changing Problem 2(Minimum no of coins).<br>
-3) Rod Cutting Problem.<br><br>
+3) Rod Cutting Problem.<br>
+4) Minimum Cost to Fill Bag.<br><br>
 
 **Parent Problem** : *Longest Common SubSequence*<br>
 SubProblems :<br>
@@ -32,7 +41,8 @@ SubProblems :<br>
 7) Longest Pallidromic SubString.<br>
 8) Edit Distance.<br>
 9) Count All Pallindromic SubSequence.<br>
-10) Minimum Deletion to make string pallindrome.<br><br>
+10) Minimum Deletion to make string pallindrome.<br>
+11) Count Distinct Occcurences.<br><br>
 
 **Parent Problem** : *Longest Increasing Subsequence*<br>
 1) Longest Decreasing SubSequence.<br>
