@@ -11,7 +11,8 @@ SubProblems :<br>
 2) Count number of hops.<br>
 3) Count ways to reach n-th stair.<br>
 4) Count Number of Ways to Tile.<br>
-5) Tiling Problem-General.<br><br>
+5) Tiling Problem-General.<br>
+6) Maximum Sum Dividing.<br><br>
 
 **Parent Problem** : *0/1 KnapSack Problem*<br>
 SubProblems :<br>
@@ -42,7 +43,9 @@ SubProblems :<br>
 8) Edit Distance.<br>
 9) Count All Pallindromic SubSequence.<br>
 10) Minimum Deletion to make string pallindrome.<br>
-11) Count Distinct Occcurences.<br><br>
+11) Count Distinct Occcurences.<br>
+12) Maximum length of pairs.<br>
+13) Minimum Ascii Sum deletion To Make two Strings equal.<br><br>
 
 **Parent Problem** : *Longest Increasing Subsequence*<br>
 1) Longest Decreasing SubSequence.<br>
@@ -67,7 +70,8 @@ SubProblems :<br>
 **Others**
 1) Get Minimum Squares.<br>
 2) Count All Increasing Subsequences.<br>
-3) Longest Consequetive Subsequences.<br><br>
+3) Longest Consequetive Subsequences.<br>
+4) Optimal Strategy to play a Game.<br><br>
 
 Happy Coding!!
 
