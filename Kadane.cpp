@@ -11,7 +11,7 @@ int Kadane(int a[],int size){
 }
 
 int main(){
-    int a[]={4,-1,2,1};
+    int a[]={8 ,-8 ,9 ,-9 ,10 ,-11 ,12};
     int size=sizeof(a)/sizeof(a[0]);
     cout<<Kadane(a,size)<<"\n";
 }
