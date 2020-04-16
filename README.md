@@ -12,7 +12,9 @@ SubProblems :<br>
 3) [Count ways to reach n-th stair](https://github.com/skm2000/Dynamic-Programming/blob/master/Count_ways_to_N'th_Stair.cpp).<br>
 4) [Count Number of Ways to Tile](https://github.com/skm2000/Dynamic-Programming/blob/master/No_Of_Ways_To_Tile.cpp).<br>
 5) [Tiling Problem-General](https://github.com/skm2000/Dynamic-Programming/blob/master/Tiling_Problem.cpp).<br>
-6) [Maximum Sum Dividing](https://github.com/skm2000/Dynamic-Programming/blob/master/Maximum_Sum_Dividing_Recurssive.cpp).<br><br>
+6) [Maximum Sum Dividing](https://github.com/skm2000/Dynamic-Programming/blob/master/Maximum_Sum_Dividing_Recurssive.cpp).<br>
+7) [Friends Pairing Problem](https://github.com/skm2000/Dynamic-Programming/blob/master/Friends_Pairing_Problem.cpp)<br>
+8) [Maximize the Cutting](https://github.com/skm2000/Dynamic-Programming/blob/master/Maximize_the_cutting.cpp)<br>
 
 **Parent Problem** : [*0/1 KnapSack Problem*](https://github.com/skm2000/Dynamic-Programming/blob/master/Knapsack_0_1.cpp)<br>
 SubProblems :<br>
@@ -60,7 +62,9 @@ SubProblems :<br>
 **Parent Problem** : *Dp on Grids*<br>
 1) [Maximum Size Submatrix Square](https://github.com/skm2000/Dynamic-Programming/blob/master/Maximum_Size_Submatrix_Square.cpp).<br>
 2) [Maximum Path Sum in Triangle](https://github.com/skm2000/Dynamic-Programming/blob/master/Max_Path_Sum_in_Triangle.cpp).<br>
-3) [Minimum Initial Points to Reach Destination](https://github.com/skm2000/Dynamic-Programming/blob/master/Minimum_Initial_Points_To_Reach_Destinaion.cpp).<br><br>
+3) [Minimum Initial Points to Reach Destination](https://github.com/skm2000/Dynamic-Programming/blob/master/Minimum_Initial_Points_To_Reach_Destinaion.cpp).<br>
+4) [GoldMine Problem](https://github.com/skm2000/Dynamic-Programming/blob/master/GoldMine_Problem.cpp)<br>
+5) [Path in a Matrix](https://github.com/skm2000/Dynamic-Programming/blob/master/Max_path_sum.cpp)<br>
 
 **Parent Problem** : [*Matrix Chain Multiplication*](https://github.com/skm2000/Dynamic-Programming/blob/master/Matrix_Chain_Multiplication.cpp)<br>
 
