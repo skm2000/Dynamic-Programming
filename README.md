@@ -40,13 +40,12 @@ SubProblems :<br>
 4) [Minimum Insertions And Deletion to Convert a String](https://github.com/skm2000/Dynamic-Programming/blob/master/Minm_Insertion_Deletion_Convert.cpp).<br>
 5) [Longest Repeating SubSequence](https://github.com/skm2000/Dynamic-Programming/blob/master/Longest_Repeating_Subsequence.cpp).<br>
 6) [Longest Pallindromic SubSequence](https://github.com/skm2000/Dynamic-Programming/blob/master/Longest_Pallindromic_Subsequence.cpp).<br>
-7) [Longest Pallidromic SubString](https://github.com/skm2000/Dynamic-Programming/blob/master/Longest_Pallindromic_Substring.cpp).<br>
-8) [Edit Distance](https://github.com/skm2000/Dynamic-Programming/blob/master/Edit_Distance.cpp).<br>
-9) [Count All Pallindromic SubSequence](https://github.com/skm2000/Dynamic-Programming/blob/master/Count_All_Pallindromic_Subsequence.cpp).<br>
-10) [Minimum Deletion to make string pallindrome](https://github.com/skm2000/Dynamic-Programming/blob/master/Minm_Deletion_To_Make_Pallindrome.cpp).<br>
-11) [Count Distinct Occcurences](https://github.com/skm2000/Dynamic-Programming/blob/master/Distinct_Occurences.cpp).<br>
-12) [Maximum length of pairs](https://github.com/skm2000/Dynamic-Programming/blob/master/Maximum_length_of_pairs.cpp).<br>
-13) [Minimum Ascii Sum deletion To Make two Strings equal](https://github.com/skm2000/Dynamic-Programming/blob/master/Minimum_Ascii_Sum_deletion_To_Make_two_Strings_equal.cpp).<br><br>
+7) [Edit Distance](https://github.com/skm2000/Dynamic-Programming/blob/master/Edit_Distance.cpp).<br>
+8) [Count All Pallindromic SubSequence](https://github.com/skm2000/Dynamic-Programming/blob/master/Count_All_Pallindromic_Subsequence.cpp).<br>
+9) [Minimum Deletion to make string pallindrome](https://github.com/skm2000/Dynamic-Programming/blob/master/Minm_Deletion_To_Make_Pallindrome.cpp).<br>
+10) [Count Distinct Occcurences](https://github.com/skm2000/Dynamic-Programming/blob/master/Distinct_Occurences.cpp).<br>
+11) [Maximum length of pairs](https://github.com/skm2000/Dynamic-Programming/blob/master/Maximum_length_of_pairs.cpp).<br>
+12) [Minimum Ascii Sum deletion To Make two Strings equal](https://github.com/skm2000/Dynamic-Programming/blob/master/Minimum_Ascii_Sum_deletion_To_Make_two_Strings_equal.cpp).<br><br>
 
 **Parent Problem** : [*Longest Increasing Subsequence*](https://github.com/skm2000/Dynamic-Programming/blob/master/Longest_Increasing_Subsequence.cpp)<br>
 1) [Longest Decreasing SubSequence](https://github.com/skm2000/Dynamic-Programming/blob/master/Longest_Decreasing_Subsequence.cpp).<br>
@@ -69,13 +68,17 @@ SubProblems :<br>
 **Parent Problem** : [*Matrix Chain Multiplication*](https://github.com/skm2000/Dynamic-Programming/blob/master/Matrix_Chain_Multiplication.cpp)<br>
 
 **Parent Problem** : *Dp on Trees*<br>
+1) [Max Path Sum](https://github.com/skm2000/Dynamic-Programming/blob/master/Max_path_sum.cpp)
 
 **Others**
 1) [Get Minimum Squares](https://github.com/skm2000/Dynamic-Programming/blob/master/Get_Minimum_Squares.cpp).<br>
 2) [Count All Increasing Subsequences](https://github.com/skm2000/Dynamic-Programming/blob/master/Count_All_Increasing_Subsequences.cpp).<br>
 3) [Longest Consequetive Subsequences](https://github.com/skm2000/Dynamic-Programming/blob/master/Longest_Consequetive_Subsequence.cpp).<br>
 4) [Optimal Strategy to play a Game](https://github.com/skm2000/Dynamic-Programming/blob/master/Optimal_Strategy_To_Play_A_Game.cpp).<br>
-5) [Zeroes And Ones](https://github.com/skm2000/Dynamic-Programming/blob/master/Unbounded_Knapsack.cpp)<br>
+5) [Zeroes And Ones](https://github.com/skm2000/Dynamic-Programming/blob/master/zerosAndOnes.cpp)
+6) [Longest Pallidromic SubString](https://github.com/skm2000/Dynamic-Programming/blob/master/Longest_Pallindromic_Substring.cpp).<br>
+7) [Count Pallindromic substring of string](https://github.com/skm2000/Dynamic-Programming/blob/master/Count_Pallindromic_SubString_Of_String_gfg.cpp)<br>
+8) [Product of array except self](https://github.com/skm2000/Dynamic-Programming/blob/master/Count_Pallindromic_SubString_Of_String_gfg.cpp)<br>
 
 Happy Coding!!
 
