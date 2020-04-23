@@ -68,7 +68,9 @@ SubProblems :<br>
 **Parent Problem** : [*Matrix Chain Multiplication*](https://github.com/skm2000/Dynamic-Programming/blob/master/Matrix_Chain_Multiplication.cpp)<br>
 
 **Parent Problem** : *Dp on Trees*<br>
-1) [Max Path Sum](https://github.com/skm2000/Dynamic-Programming/blob/master/Max_path_sum.cpp)
+1) [Max Path Sum](https://github.com/skm2000/Dynamic-Programming/blob/master/Max_path_sum.cpp)<br>
+2) [Maximum Path Sum in a Tree from Any node to any other node](https://github.com/skm2000/Dynamic-Programming/blob/master/Maximum_Path_Sum_in_Binary_tree.cpp)<br>
+3) [Diameter of a Binary Tree](https://github.com/skm2000/Dynamic-Programming/blob/master/Diameter_Of_Binary_Tree.cpp)<br>
 
 **Others**
 1) [Get Minimum Squares](https://github.com/skm2000/Dynamic-Programming/blob/master/Get_Minimum_Squares.cpp).<br>
@@ -78,7 +80,10 @@ SubProblems :<br>
 5) [Zeroes And Ones](https://github.com/skm2000/Dynamic-Programming/blob/master/zerosAndOnes.cpp)
 6) [Longest Pallidromic SubString](https://github.com/skm2000/Dynamic-Programming/blob/master/Longest_Pallindromic_Substring.cpp).<br>
 7) [Count Pallindromic substring of string](https://github.com/skm2000/Dynamic-Programming/blob/master/Count_Pallindromic_SubString_Of_String_gfg.cpp)<br>
-8) [Product of array except self](https://github.com/skm2000/Dynamic-Programming/blob/master/Count_Pallindromic_SubString_Of_String_gfg.cpp)<br>
+8) [Product of array except self](https://github.com/skm2000/Dynamic-Programming/blob/master/Count_Pallindromic_SubString_Of_String_gfg.cpp)
+9) [Jump Game-3(Leetcode)](https://github.com/skm2000/Dynamic-Programming/blob/master/Jump_Game_3.cpp)<br>
+10) [Jump Game-5(Leetcode)](https://github.com/skm2000/Dynamic-Programming/blob/master/Jump_Game_5.cpp)<br>
+11) [Stone Game-3](https://github.com/skm2000/Dynamic-Programming/blob/master/Last_Stone_3.cpp)<br>
 
 Happy Coding!!
 
