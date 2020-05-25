@@ -46,7 +46,8 @@ SubProblems :<br>
 9) [Minimum Deletion to make string pallindrome](https://github.com/skm2000/Dynamic-Programming/blob/master/Minm_Deletion_To_Make_Pallindrome.cpp).<br>
 10) [Count Distinct Occcurences](https://github.com/skm2000/Dynamic-Programming/blob/master/Distinct_Occurences.cpp).<br>
 11) [Maximum length of pairs](https://github.com/skm2000/Dynamic-Programming/blob/master/Maximum_length_of_pairs.cpp).<br>
-12) [Minimum Ascii Sum deletion To Make two Strings equal](https://github.com/skm2000/Dynamic-Programming/blob/master/Minimum_Ascii_Sum_deletion_To_Make_two_Strings_equal.cpp).<br><br>
+12) [Minimum Ascii Sum deletion To Make two Strings equal](https://github.com/skm2000/Dynamic-Programming/blob/master/Minimum_Ascii_Sum_deletion_To_Make_two_Strings_equal.cpp).<br>
+13) [Maximum Dot Product of Subsequences](https://github.com/skm2000/Dynamic-Programming/blob/master/Maximum_Dot_Product_Subsequence.cpp).<br><br>
 
 **Parent Problem** : [*Longest Increasing Subsequence*](https://github.com/skm2000/Dynamic-Programming/blob/master/Longest_Increasing_Subsequence.cpp)<br>
 1) [Longest Decreasing SubSequence](https://github.com/skm2000/Dynamic-Programming/blob/master/Longest_Decreasing_Subsequence.cpp).<br>
