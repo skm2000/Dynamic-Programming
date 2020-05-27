@@ -87,6 +87,7 @@ SubProblems :<br>
 9) [Jump Game-3(Leetcode)](https://github.com/skm2000/Dynamic-Programming/blob/master/Jump_Game_3.cpp)<br>
 10) [Jump Game-5(Leetcode)](https://github.com/skm2000/Dynamic-Programming/blob/master/Jump_Game_5.cpp)<br>
 11) [Stone Game-3](https://github.com/skm2000/Dynamic-Programming/blob/master/Last_Stone_3.cpp)<br>
+12) [Num Products](#)<br>
 
 Happy Coding!!
 
