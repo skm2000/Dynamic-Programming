@@ -4,7 +4,8 @@ A DP a day keeps the bug away.
 **Cointains Basic Dp Problems**<br><br>
 
 **Parent Problem** : [*Kadane's Algorithm*](https://github.com/skm2000/Dynamic-Programming/blob/master/Kadane.cpp)<br>
-1) [Circular Kadane](https://github.com/skm2000/Dynamic-Programming/blob/master/Circular_Kadene.cpp)<br>
+1) [Best Time to Buy and sell Stock(Leetcode)](https://github.com/skm2000/Dynamic-Programming/blob/master/Best_Time_To_Buy_And_Sell_Stock_.cpp)<br>
+2) [Circular Kadane](https://github.com/skm2000/Dynamic-Programming/blob/master/Circular_Kadene.cpp)<br>
 
 **Parent Problem** : *Fibonacci*.<br>
 SubProblems :<br>
