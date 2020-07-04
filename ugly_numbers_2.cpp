@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+// leetcode problem
 class Solution {
 public:
     int nthUglyNumber(int n) {
