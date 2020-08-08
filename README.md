@@ -17,6 +17,7 @@ SubProblems :<br>
 6) [Maximum Sum Dividing](https://github.com/skm2000/Dynamic-Programming/blob/master/Maximum_Sum_Dividing_Recurssive.cpp).<br>
 7) [Friends Pairing Problem](https://github.com/skm2000/Dynamic-Programming/blob/master/Friends_Pairing_Problem.cpp)<br>
 8) [Maximize the Cutting](https://github.com/skm2000/Dynamic-Programming/blob/master/Maximize_the_cutting.cpp)<br>
+9) [Number of Ways to Decode a String](/Number_of_ways_to_decode_a_string.cpp)
 
 **Parent Problem** : [*0/1 KnapSack Problem*](https://github.com/skm2000/Dynamic-Programming/blob/master/Knapsack_0_1.cpp)<br>
 SubProblems :<br>
@@ -29,7 +30,6 @@ SubProblems :<br>
 **Parent Problem** : [*Unbounded KnapSack*](https://github.com/skm2000/Dynamic-Programming/blob/master/Unbounded_Knapsack.cpp)<br>
 SubProblems :<br>
 1) [Coin Changing Problem 1(No of ways)](https://github.com/skm2000/Dynamic-Programming/blob/master/Coin_Changing_1.cpp).<br>
-   A)[Reach A given Score](https://github.com/skm2000/Dynamic-Programming/blob/master/Reach_a_given_score.cpp).<br>
 2) [Coin Changing Problem 2(Minimum no of coins)](https://github.com/skm2000/Dynamic-Programming/blob/master/Coin_Changing_2.cpp).<br>
 3) [Rod Cutting Problem](https://github.com/skm2000/Dynamic-Programming/blob/master/Rod_Cutting.cpp).<br>
 4) [Minimum Cost to Fill Bag](https://github.com/skm2000/Dynamic-Programming/blob/master/Minm_Cost_To_Fill_Bag.cpp).<br><br>
