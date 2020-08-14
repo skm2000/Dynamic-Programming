@@ -74,6 +74,9 @@ SubProblems :<br>
 3) [Minimum Initial Points to Reach Destination](/Minimum_Initial_Points_To_Reach_Destinaion.cpp).<br>
 4) [GoldMine Problem](/GoldMine_Problem.cpp)<br>
 5) [Path in a Matrix](/Max_path_sum.cpp)<br>
+6) [Maximal Square(Leetcode)](/maximal_square.cpp)<br>
+7) [Count Submatrices with all ones(Leetcode)](/count_submatrices_with_all_ones.cpp)<br>
+8) [Maximum Sum Submatrix](/maximum_sum_submatrix.cpp)
 
 **Parent Problem** : [*Matrix Chain Multiplication*](/Matrix_Chain_Multiplication.cpp)<br>
 
