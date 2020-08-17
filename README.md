@@ -1,7 +1,7 @@
 # Dynamic-Programming
 A DP a day keeps the bug away.
 
-**Cointains Basic Dp Problems**<br><br>
+**Cointains Dp Problems**<br><br>
 
 **Parent Problem** : [*Kadane's Algorithm*](/Kadane.cpp)<br>
 1) [Best Time to Buy and sell Stock(Leetcode)](/Best_Time_To_Buy_And_Sell_Stock_.cpp)<br>
@@ -59,14 +59,24 @@ SubProblems :<br>
 5) [Maximum Product Increasing Subsequence](/Maximum_Product_Increasing_Subsequence.cpp).<br>
 6) [Minimum Jumps to reach end](/Minimum_Jumps_To_Reach_End.cpp).<br>
 7) [Box Stacking Problem](/Box_Stacking_Problem.cpp).<br>
-8) [Longest Bitonic Sequence](/BitonicSequence.cpp).<br><br>
+8) [Longest Bitonic Sequence](/BitonicSequence.cpp).<br>
+9) [Longest Alternating Subsequence](/longest_alternating_subsequence.cpp)<br>
+10) [Count All Increasing Subsequences](/Count_All_Increasing_Subsequences.cpp).<br>
 
 **Parent Problem** : *DP + Greedy*<br>
 1) [Jump Game-2(Leetcode)](/jump_game_2..cpp).<br>
 2) [Video Stiching(Leetcode)](/video_stiching.cpp).<br>
-3) [Minm number of taps to open water](/minm_number_of_taps_to_open_water.cpp)
+3) [Minm number of taps to open water](/minm_number_of_taps_to_open_water.cpp).<br>
 
-**Parent Problem** : [*Count Distinct SubSequences*](/Count_Distinct_Subsequences.cpp)<br>
+**Parent Problem** : *Game(DP) + minimax*<br>
+1) [Nim Game](/nim_game.cpp).<br>
+2) [Flip Game-1](/flip_game.cpp).<br>
+3) [Flip Game-2](/flip_game2.cpp).<br>
+4) [Get Minimum Squares](/Get_Minimum_Squares.cpp).<br>
+5) [Optimal Strategy to play a Game](/Optimal_Strategy_To_Play_A_Game.cpp).<br>
+6) [Stone Game-3](/Last_Stone_3.cpp)<br>
+7) [Jump Game-3(Leetcode)](/Jump_Game_3.cpp)<br>
+8) [Jump Game-5(Leetcode)](/Jump_Game_5.cpp)<br>
 
 **Parent Problem** : *Dp on Grids*<br>
 1) [Maximum Size Submatrix Square](/Maximum_Size_Submatrix_Square.cpp).<br>
@@ -76,9 +86,14 @@ SubProblems :<br>
 5) [Path in a Matrix](/Max_path_sum.cpp)<br>
 6) [Maximal Square(Leetcode)](/maximal_square.cpp)<br>
 7) [Count Submatrices with all ones(Leetcode)](/count_submatrices_with_all_ones.cpp)<br>
-8) [Maximum Sum Submatrix](/maximum_sum_submatrix.cpp)
+8) [Maximum Sum Submatrix](/maximum_sum_submatrix.cpp)<br>
+9) [Unique Path-1](/unique_paths_1.cpp)<br>
+10) [Unique Path-2](/unique_paths_2.cpp)<br>
+
 
 **Parent Problem** : [*Matrix Chain Multiplication*](/Matrix_Chain_Multiplication.cpp)<br>
+
+**Parent Problem** : [*Count Distinct SubSequences*](/Count_Distinct_Subsequences.cpp)<br>
 
 **Parent Problem** : *Dp on Trees*<br>
 1) [Max Path Sum](/Max_path_sum.cpp)<br>
@@ -86,18 +101,11 @@ SubProblems :<br>
 3) [Diameter of a Binary Tree](/Diameter_Of_Binary_Tree.cpp)<br>
 
 **Others**
-1) [Get Minimum Squares](/Get_Minimum_Squares.cpp).<br>
-2) [Count All Increasing Subsequences](/Count_All_Increasing_Subsequences.cpp).<br>
-3) [Longest Consequetive Subsequences](/Longest_Consequetive_Subsequence.cpp).<br>
-4) [Optimal Strategy to play a Game](/Optimal_Strategy_To_Play_A_Game.cpp).<br>
-5) [Zeroes And Ones](/zerosAndOnes.cpp)
-6) [Longest Pallidromic SubString](/Longest_Pallindromic_Substring.cpp).<br>
-7) [Count Pallindromic substring of string](/Count_Pallindromic_SubString_Of_String_gfg.cpp)<br>
-8) [Product of array except self](/Count_Pallindromic_SubString_Of_String_gfg.cpp)
-9) [Jump Game-3(Leetcode)](/Jump_Game_3.cpp)<br>
-10) [Jump Game-5(Leetcode)](/Jump_Game_5.cpp)<br>
-11) [Stone Game-3](/Last_Stone_3.cpp)<br>
-12) [Num Products](#)<br>
+1) [Longest Consequetive Subsequences](/Longest_Consequetive_Subsequence.cpp).<br> 
+2) [Zeroes And Ones](/zerosAndOnes.cpp)
+3) [Longest Pallidromic SubString](/Longest_Pallindromic_Substring.cpp).<br>
+4) [Count Pallindromic substring of string](/Count_Pallindromic_SubString_Of_String_gfg.cpp)<br>
+5) [Product of array except self](/Count_Pallindromic_SubString_Of_String_gfg.cpp)
 
 Happy Coding!!
 
