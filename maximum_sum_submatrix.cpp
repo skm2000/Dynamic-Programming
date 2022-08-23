@@ -12,9 +12,10 @@ int Solution::solve(vector<vector<int> > &A, int B) {
             dp[i][j] = A[i-1][j-1] + dp[i-1][j] + dp[i][j-1] - dp[i-1][j-1];
         }
     }
+     int sum = INT_MIN;
     for(int i=1;i<dp.size();i++){
         for(int j=1;j<dp[0].size();j++){
-            int sum = INT_MIN;
+           
             if(i-B >=0 && j-B >= 0){
                 sum = max(sum,dp[i][j]-dp[i-B][j]-dp[i][j-B]+dp[i-B][j-B]);
             }
